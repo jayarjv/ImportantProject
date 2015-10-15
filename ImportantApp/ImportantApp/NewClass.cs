@@ -10,5 +10,7 @@ namespace ImportantApp
 
     public class NewClass
     {
+        //Important
+        int ab = 4;
     }
 }
