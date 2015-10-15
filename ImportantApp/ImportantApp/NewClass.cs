@@ -12,6 +12,8 @@ namespace ImportantApp
     {
         // unimportant
 
-        int ab = 3;
+        int abc = 3;
+        //Important
+        int ab = 4;
     }
 }
